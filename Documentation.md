@@ -79,8 +79,8 @@ Requirements and Environment Setup :-
 ####### $[ Update ] : In Future Updates This Maybe A Full Testing Tool For DVWA.
 
 ScreenShots :-
+![Screenshot_2023-08-06_15_15_53](https://github.com/hackpure/DVWA-AttackTool/assets/125376372/f3afbdc5-3df6-48c8-930d-7fdc9e6d6449 "Environment Setup")
+![Screenshot_2023-08-06_15_17_56](https://github.com/hackpure/DVWA-AttackTool/assets/125376372/e625bcf9-5bc5-4495-9ddd-e4a6c2130105 "BruteForce Attack")
 
-![Environment Setup](Screenshots/Screenshot_2023-08-06_15_15_53.png "Environment Setup")?raw=True
-![BruteForce Attack](Screenshots/Screenshot_2023-08-06_15_17_56.png "BruteForce Attack")?raw=True
 
   
