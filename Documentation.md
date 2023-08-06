@@ -77,3 +77,10 @@ Requirements and Environment Setup :-
 #Note : This Script Is Currently Tested On Low Level Of Security May Cause Some ErrorIn Other Levels
 
 ####### $[ Update ] : In Future Updates This Maybe A Full Testing Tool For DVWA.
+
+ScreenShots :-
+
+	![Environment Setup](../Screenshots/Screenshot_2023-08-06_15_15_53.png)
+ 	![BruteForce Attack](../Screenshots/Screenshot_2023-08-06_15_17_56.png)
+
+  
