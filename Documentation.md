@@ -80,7 +80,7 @@ Requirements and Environment Setup :-
 
 ScreenShots :-
 
-![Environment Setup](Screenshots/Screenshot_2023-08-06_15_15_53.png "Environment Setup")
- ![BruteForce Attack](Screenshots/Screenshot_2023-08-06_15_17_56.png "BruteForce Attack")
+![Environment Setup](Screenshots/Screenshot_2023-08-06_15_15_53.png "Environment Setup")?raw=True
+![BruteForce Attack](Screenshots/Screenshot_2023-08-06_15_17_56.png "BruteForce Attack")?raw=True
 
   
