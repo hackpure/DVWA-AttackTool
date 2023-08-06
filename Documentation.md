@@ -90,7 +90,7 @@ Requirements and Environment Setup :-
 ![Screenshot_2023-08-06_15_15_53](https://github.com/hackpure/DVWA-AttackTool/assets/125376372/f3afbdc5-3df6-48c8-930d-7fdc9e6d6449) 
 
 
-BruteForce-Attack*
+*BruteForce-Attack*
 
 ![Screenshot_2023-08-06_15_17_56](https://github.com/hackpure/DVWA-AttackTool/assets/125376372/e625bcf9-5bc5-4495-9ddd-e4a6c2130105) *
 
