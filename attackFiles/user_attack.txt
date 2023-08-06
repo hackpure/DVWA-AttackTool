@@ -1,0 +1,10 @@
+root
+toor
+admin
+user
+administrator
+webadmin
+sysadmin
+netadmin
+user
+guest
